@@ -1,0 +1,26 @@
+
+:root {
+  --bg-dark: #130e1c;
+  --primary-purple: #8B5CF6;
+  --accent-orange: #FFC857;
+
+  --text-main: #f2f8f9;
+  --text-secondary: #848895;
+  --text-muted: #BBB6C4;
+  --glass-bg: rgba(255, 255, 255, 0.05);
+  --glass-border: rgba(255, 255, 255, 0.1);
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+}
+
+body {
+  background-color: var(--bg-dark);
+  color: var(--text-main);
+  overflow-x: hidden;
+}
+
