@@ -1,7 +1,7 @@
 import React from 'react'
 import { Button } from "@mui/material";
 import ArrowForwardIcon from "@mui/icons-material/ArrowForward";
-import stakingImage from "../assets/staking.svg";
+import stakingImage from "../assets/Staking.svg";
 
 function Staking() {
   return (
